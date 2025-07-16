@@ -10,6 +10,8 @@ The pattern consists of:
 3. **Archive Template** that displays selected homepage content
 4. **Admin Bar Integration** for easy editing
 
+> **Note**: This pattern has been tested and proven to work with GenerateBlocks and other page builders.
+
 ## Use Cases
 
 - **Resource Centers**: `/resources` with a dedicated homepage
