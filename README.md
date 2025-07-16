@@ -331,11 +331,11 @@ Each subsection can have its own settings page with specific options.
 
 ## Example Implementation
 
-See the DIPG implementation in this theme:
-- Post Type: `dipg-page` with slug `dipg`
-- Settings: `inc/dipg-settings.php`
-- Template: `archive-dipg-page.php`
-- URL: `/dipg` displays selected homepage content
+Here's how this pattern was implemented in a real project:
+- Post Type: `subsection-page` with slug `subsection`
+- Settings: `inc/subsection-settings.php`
+- Template: `archive-subsection-page.php`
+- URL: `/subsection` displays selected homepage content
 
 ## Troubleshooting
 
